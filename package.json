@@ -1,0 +1,14 @@
+{
+  "name": "jison-playground",
+  "scripts": {
+    "generate": "jison parser.jison"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:achrome/jison-playground.git",
+  "author": "Ashwin Mukhija <achromatic.rainbow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jison": "^0.4.17"
+  }
+}
